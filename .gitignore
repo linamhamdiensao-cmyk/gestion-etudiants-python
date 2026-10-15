@@ -1,0 +1,20 @@
+
+# Fichiers locaux exclus de la publication
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+node_modules/
+.next/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.class
+bin/
+target/
+*.log
+*.db
+*.sqlite*
+*.xlsx
+*.csv
